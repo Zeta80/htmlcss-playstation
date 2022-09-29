@@ -95,4 +95,15 @@ header {
 
 
 /* #region FOOTER */
+footer {
+    background-color: hsl(214.2, 100%, 30.6%);
+    color: white;
+    min-height: 400px;
+}
+
+footer .globe {
+    width: 20px;
+}
+
+
 /* #endregion FOOTER */
