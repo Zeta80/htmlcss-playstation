@@ -61,6 +61,20 @@ header {
 .upcoming-games {
     background-color: hsl(0, 0%, 12.2%);
     color: white;
+    min-height: 300px;
+}
+
+/* PLAYSTATION PLUS  */
+.play-plus-wrapper {
+    background-color: #bebcbb;
+}
+
+.play-plus-wrapper .text-plus img {
+    width: 80%;
+}
+
+.play-plus-banner {
+    height: 100%;
 }
 
 /* #endregion MAIN */

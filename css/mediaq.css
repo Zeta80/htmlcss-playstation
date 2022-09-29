@@ -1,3 +1,13 @@
+@media screen and (min-width: 768px) {
+
+    /* PLAYSTATION PLUS */
+    .play-plus-wrapper .text-plus img {
+        width: 50%;
+    }
+}
+
+
+
 @media screen and (min-width: 992px) {
 
     /* JUMBOTRON  */
@@ -19,5 +29,10 @@
     /* SECOND BANNER */
     .wrapper-cont-banner .logo-banner {
         width: 20%;
+    }
+
+    /* PLAYSTATION PLUS */
+    .play-plus-wrapper .text-plus img {
+        width: 60%;
     }
 }
