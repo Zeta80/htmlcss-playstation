@@ -1,5 +1,12 @@
 @media screen and (min-width: 992px) {
+
+    /* JUMBOTRON  */
     .wrapper-cont-jumbo .logo-jumbo {
         width: 30%;
     }
+
+    /* .text.jumbo {
+        width: 40%;
+    } */
+    /* DA VISIONARE */
 }
