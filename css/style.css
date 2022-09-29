@@ -1,0 +1,48 @@
+/* COMMONS */
+img {
+    max-width: 100%;
+}
+
+/* #region HEADER */
+header {
+    background-color: black;
+}
+
+.logo-sony {
+    width: 80px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+/* #endregion HEADER */
+
+/* #region JUMBO */
+.jumbotron {
+    color: white;
+    height: 500px;
+    background-image: url(../archive/img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper-cont-jumbo {
+    height: 500px;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.wrapper-cont-jumbo .logo-jumbo {
+    width: 60%;
+}
+
+/* #endregion JUMBO */
+
+
+/* #region MAIN */
+/* #endregion MAIN */
+
+
+
+/* #region FOOTER */
+/* #endregion FOOTER */
