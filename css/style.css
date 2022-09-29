@@ -26,7 +26,8 @@ header {
     background-repeat: no-repeat;
 }
 
-.wrapper-cont-jumbo {
+.wrapper-cont-jumbo,
+.wrapper-cont-banner {
     height: 500px;
     flex-direction: column;
     justify-content: flex-end;
@@ -38,8 +39,30 @@ header {
 
 /* #endregion JUMBO */
 
-
 /* #region MAIN */
+.text-console {
+    margin: auto;
+}
+
+/* SECOND BANNER  */
+.banners {
+    background-image: url(../archive/img/it-takes-two-hero-banner-desktop.jpg);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper-cont-banner .logo-banner {
+    width: 60%;
+}
+
+/* UPCOMING GAMES */
+.upcoming-games {
+    background-color: hsl(0, 0%, 12.2%);
+    color: white;
+}
+
 /* #endregion MAIN */
 
 
