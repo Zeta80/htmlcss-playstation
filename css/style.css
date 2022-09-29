@@ -64,7 +64,7 @@ header {
     min-height: 300px;
 }
 
-/* PLAYSTATION PLUS  */
+/* PLAYSTATION PLUS / NOW */
 .play-plus-wrapper {
     background-color: #bebcbb;
 }
@@ -73,9 +73,22 @@ header {
     width: 80%;
 }
 
-.play-plus-banner {
+.play-plus-banner,
+.play-now-banner {
     height: 100%;
 }
+
+.play-now-wrapper {
+    background-color: #161c3b;
+    color: white;
+}
+
+.play-now-wrapper .text-now img {
+    width: 70%;
+}
+
+
+
 
 /* #endregion MAIN */
 

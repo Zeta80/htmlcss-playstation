@@ -1,8 +1,18 @@
 @media screen and (min-width: 768px) {
 
-    /* PLAYSTATION PLUS */
+    /* PLAYSTATION PLUS/NOW */
     .play-plus-wrapper .text-plus img {
         width: 50%;
+    }
+
+    .play-now-wrapper .text-now img {
+        width: 50%;
+    }
+
+    /* SOCIAL MEDIA */
+    .ms-container-socialmedia {
+        width: 80%;
+        margin: auto;
     }
 }
 
@@ -31,8 +41,18 @@
         width: 20%;
     }
 
-    /* PLAYSTATION PLUS */
+    /* PLAYSTATION PLUS/NOW */
     .play-plus-wrapper .text-plus img {
         width: 60%;
+    }
+
+    .play-now-wrapper .text-now img {
+        width: 60%;
+    }
+
+    /* SOCIAL MEDIA */
+    .ms-container-socialmedia {
+        width: 60%;
+        margin: auto;
     }
 }
