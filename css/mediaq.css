@@ -1,3 +1,4 @@
+/* TABLET */
 @media screen and (min-width: 768px) {
 
     /* PLAYSTATION PLUS/NOW */
@@ -14,10 +15,18 @@
         width: 80%;
         margin: auto;
     }
+
+    /* FOOTER */
+    footer ul {
+        flex-grow: 1;
+    }
+
+    /* footer .link-list ul:not(:first-child) {
+        margin-left: 2em;
+    } */
 }
 
-
-
+/* DESKTOP LARGE */
 @media screen and (min-width: 992px) {
 
     /* JUMBOTRON  */
@@ -49,5 +58,10 @@
     .ms-container-socialmedia {
         width: 60%;
         margin: auto;
+    }
+
+    /* FOOTER */
+    footer ul {
+        margin-right: 60px;
     }
 }

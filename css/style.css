@@ -3,6 +3,15 @@ img {
     max-width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+}
+
 /* #region HEADER */
 header {
     background-color: black;
@@ -86,11 +95,7 @@ header {
 }
 
 
-
-
 /* #endregion MAIN */
-
-
 
 /* #region FOOTER */
 footer {
@@ -103,5 +108,8 @@ footer .globe {
     width: 20px;
 }
 
+.footer-bottom img {
+    width: 100px;
+}
 
 /* #endregion FOOTER */
