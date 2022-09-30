@@ -19,22 +19,18 @@ header {
 /* #region JUMBO */
 .jumbotron {
     color: white;
-    height: 500px;
+    min-height: 500px;
     background-image: url(../archive/img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.wrapper-cont-jumbo,
+.wrapper-jumbo,
 .wrapper-cont-banner {
     height: 500px;
     flex-direction: column;
     justify-content: flex-end;
-}
-
-.wrapper-cont-jumbo .logo-jumbo {
-    width: 60%;
 }
 
 /* #endregion JUMBO */
