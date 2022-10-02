@@ -52,6 +52,30 @@ ul {
     border-radius: 30px;
 }
 
+/* HOVERS */
+/* GALLERY AFTER JUMBO */
+.gallery .col img:hover {
+    cursor: pointer;
+    outline: 2px solid blue;
+    outline-offset: 4px;
+}
+
+/* NEW GAMES */
+.gallery-new-games .col .image-coming:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+/* SALDI */
+.gallery-sales .col:hover {
+    cursor: pointer;
+}
+
+/* SOCIAL MEDIA */
+.gallery-social .col:hover {
+    cursor: pointer;
+}
+
 /* #region HEADER */
 header {
     background-color: black;
