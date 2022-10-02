@@ -12,6 +12,47 @@ ul {
     list-style-type: none;
 }
 
+.ms_color-blu {
+    color: blue;
+}
+
+.ms_color-gray {
+    color: gray;
+}
+
+/* BUTTONS */
+.btn-header {
+    background-color: #363636;
+    border-color: #363636;
+    border-radius: 30px;
+}
+
+.btn-jumbos {
+    background-color: #cd3d0f;
+    border-color: #cd3d0f;
+    border-radius: 30px;
+}
+
+
+.btn-plus {
+    background-color: #d9dadc;
+    border-color: #d9dadc;
+    color: blue;
+    border-radius: 30px;
+}
+
+.btn-now {
+    background-color: #f5f5f5;
+    border-color: #f5f5f5;
+    color: black;
+    border-radius: 30px;
+}
+
+.ms_btn {
+    border-radius: 30px;
+}
+
+
 /* #region HEADER */
 header {
     background-color: black;
@@ -21,10 +62,20 @@ header {
     width: 100%;
 }
 
+
+
 .logo-sony {
     width: 80px;
     margin-left: auto;
     margin-right: 10px;
+}
+
+.cont-lens {
+    height: 100%;
+}
+
+.lens-navbar {
+    width: 25px;
 }
 
 /* #endregion HEADER */
